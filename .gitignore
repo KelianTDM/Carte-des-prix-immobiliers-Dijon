@@ -1,0 +1,12 @@
+# Ignorer l'environnement virtuel Python
+env/
+venv/
+
+# Ignorer les fichiers temporaires de Python
+__pycache__/
+*.pyc
+
+# Ignorer les gros fichiers de données
+data/*.csv
+data/*.gz
+data/*.csv.gz
